@@ -1,0 +1,34 @@
+.flashy {
+  color: red;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 110%
+}
+
+.best {
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: orange;
+}
+
+
+li {
+  font-family: cursive;
+  display: inline-block;
+}
+
+ul {
+  list-style: none;
+}
+
+cite {
+  font-size: 50%;
+}
+
+img {
+  display: inline;
+}
+
+h1 {
+  text-align: center;
+}
